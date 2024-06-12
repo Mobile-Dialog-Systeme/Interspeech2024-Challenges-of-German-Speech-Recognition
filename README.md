@@ -1,0 +1,1 @@
+# Interspeech2024-Challenges-of-German-Speech-Recognition
